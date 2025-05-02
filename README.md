@@ -4,6 +4,14 @@
 - 🌱 A passion for social impact and cross-cultural understanding
 - 👯 An interest in applying new technologies for strategic decision-making
 - 🤔 All through making use of creative approaches in the workplace
+
+ __  __ _                                  _
+|  \/  (_) ___ _ __ ___  _ __   __ _ _   _| |_
+| |\/| | |/ __| '__/ _ \| '_ \ / _` | | | | __|
+| |  | | | (__| | | (_) | | | | (_| | |_| | |_
+|_|  |_|_|\___|_|  \___/|_| |_|\__,_|\__,_|\__|
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
