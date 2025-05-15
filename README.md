@@ -1,16 +1,12 @@
-# About me 👋
 
-- 🔭 Master's student in International Management
-- 🌱 A passion for social impact and cross-cultural understanding
-- 👯 An interest in applying new technologies for strategic decision-making
-- 🤔 All through making use of creative approaches in the workplace
 
+<pre>
  __  __ _                                  _
 |  \/  (_) ___ _ __ ___  _ __   __ _ _   _| |_
 | |\/| | |/ __| '__/ _ \| '_ \ / _` | | | | __|
 | |  | | | (__| | | (_) | | | | (_| | |_| | |_
 |_|  |_|_|\___|_|  \___/|_| |_|\__,_|\__,_|\__|
-
+</pre>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
